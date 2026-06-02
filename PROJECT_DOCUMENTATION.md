@@ -335,24 +335,34 @@ flowchart TD
 
 Screenshots can be added after running the application locally.
 
-Suggested screenshots:
+### Frontend upload screen
 
-* Frontend upload screen: `docs/screenshots/01-upload-screen.png`
-* Analysis result tab: `docs/screenshots/02-analysis-results.png`
-* RCA result tab: `docs/screenshots/03-rca-results.png`
-* Observability tab: `docs/screenshots/04-observability.png`
-* Dashboard page: `docs/screenshots/05-dashboard.png`
-* FastAPI Swagger docs: `docs/screenshots/06-fastapi-docs.png`
-* LangSmith trace view: `docs/screenshots/07-langsmith-trace.png`
+![Frontend upload screen](docs/screenshots/01-upload-screen.png)
 
-Markdown placeholders:
+### Analysis result tab
 
-```md
-![Upload Screen](docs/screenshots/01-upload-screen.png)
-![Analysis Results](docs/screenshots/02-analysis-results.png)
-![RCA Results](docs/screenshots/03-rca-results.png)
-![Observability Dashboard](docs/screenshots/05-dashboard.png)
-```
+![Analysis result tab](docs/screenshots/02-analysis-results.png)
+
+### RCA result tab
+
+![RCA result tab](docs/screenshots/03-rca-results.png)
+
+### Observability tab
+
+![Observability tab](docs/screenshots/04-observability.png)
+
+### Dashboard page
+
+![Dashboard page](docs/screenshots/05-dashboard.png)
+
+### FastAPI Swagger docs
+
+![FastAPI Swagger docs](docs/screenshots/06-fastapi-docs.png)
+
+### LangSmith trace view
+
+![LangSmith trace view](docs/screenshots/07-langsmith-trace.png)
+
 
 ## 17. Conclusion
 
