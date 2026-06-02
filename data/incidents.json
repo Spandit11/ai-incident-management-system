@@ -1,0 +1,23 @@
+[
+  {
+    "incidentId": "INC-101",
+    "category": "Database Timeout",
+    "severity": "High",
+    "summary": "SQL timeout exceptions detected in Payment API due to connection pool exhaustion.",
+    "resolution": "Increase SQL connection pool size and restart API."
+  },
+  {
+    "incidentId": "INC-102",
+    "category": "Service Bus Failure",
+    "severity": "Medium",
+    "summary": "Azure Service Bus dead-letter queue messages increasing due to lock expiration.",
+    "resolution": "Increase lock duration and review message retry handling."
+  },
+  {
+    "incidentId": "INC-103",
+    "category": "Authentication Failure",
+    "severity": "High",
+    "summary": "JWT token validation failures detected across API gateway.",
+    "resolution": "Refresh signing certificates and restart authentication service."
+  }
+]

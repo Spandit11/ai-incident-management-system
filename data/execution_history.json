@@ -1,0 +1,289 @@
+[
+  {
+    "timestamp": "2026-05-28 20:19:09.647156",
+    "category": "Database/Payment API",
+    "severity": "High",
+    "execution_time": 8.58,
+    "memory_status": false
+  },
+  {
+    "timestamp": "2026-05-28 20:22:31.167639",
+    "category": "Database/Connection",
+    "severity": "High",
+    "execution_time": 6.13,
+    "memory_status": false
+  },
+  {
+    "timestamp": "2026-05-28 21:07:58.428568",
+    "category": "Database/Payment API",
+    "severity": "High",
+    "execution_time": 9.88,
+    "memory_status": false
+  },
+  {
+    "timestamp": "2026-05-28 21:44:31.387947",
+    "category": "Database/Payment API",
+    "severity": "High",
+    "execution_time": 9.05,
+    "memory_status": false
+  },
+  {
+    "timestamp": "2026-05-28 21:47:35.926135",
+    "category": "Database/Connection",
+    "severity": "High",
+    "execution_time": 7.04,
+    "memory_status": false
+  },
+  {
+    "timestamp": "2026-05-28 21:49:10.459096",
+    "category": "Database/Connection",
+    "severity": "High",
+    "execution_time": 8.21,
+    "memory_status": false
+  },
+  {
+    "timestamp": "2026-05-29 09:14:11.483046",
+    "category": "Database",
+    "severity": "High",
+    "execution_time": 9.31,
+    "memory_status": false
+  },
+  {
+    "timestamp": "2026-05-29 09:21:41.225957",
+    "category": "Database",
+    "severity": "High",
+    "execution_time": 9.02,
+    "memory_status": false
+  },
+  {
+    "timestamp": "2026-05-29 09:31:26.350006",
+    "category": "Database/Payment API",
+    "severity": "High",
+    "execution_time": 5.44,
+    "memory_status": false
+  },
+  {
+    "timestamp": "2026-05-29 09:42:51.883525",
+    "category": "Logging Issues",
+    "severity": "Medium",
+    "execution_time": 6.94,
+    "memory_status": true
+  },
+  {
+    "timestamp": "2026-05-29 10:53:37.998193",
+    "category": "Unknown",
+    "severity": "Low",
+    "execution_time": 11.72,
+    "memory_status": true
+  },
+  {
+    "timestamp": "2026-05-29 11:06:07.777185",
+    "category": "Database/Payment API",
+    "severity": "High",
+    "execution_time": 11.0,
+    "memory_status": false
+  },
+  {
+    "timestamp": "2026-05-29 11:13:44.119632",
+    "category": "Database",
+    "severity": "Critical",
+    "execution_time": 5.75,
+    "memory_status": false
+  },
+  {
+    "timestamp": "2026-05-29 13:43:23.439999",
+    "category": "Logging Issues",
+    "severity": "Medium",
+    "execution_time": 10.5,
+    "memory_status": false
+  },
+  {
+    "timestamp": "2026-05-29 14:40:40.225946",
+    "category": "Database/Connection",
+    "severity": "High",
+    "execution_time": 3.13,
+    "memory_status": false
+  },
+  {
+    "timestamp": "2026-05-29 14:57:30.048179",
+    "category": "Database/Payment API",
+    "severity": "High",
+    "execution_time": 3.83,
+    "memory_status": false
+  },
+  {
+    "timestamp": "2026-05-29 14:57:55.734508",
+    "category": "Logging Issues",
+    "severity": "Medium",
+    "execution_time": 8.36,
+    "memory_status": false
+  },
+  {
+    "timestamp": "2026-05-29 15:42:24.914871",
+    "category": "Application Error",
+    "severity": "Critical",
+    "execution_time": 11.81,
+    "memory_status": true
+  },
+  {
+    "timestamp": "2026-05-29 17:48:21.786501",
+    "category": "Application Error",
+    "severity": "Critical",
+    "execution_time": 9.33,
+    "memory_status": false
+  },
+  {
+    "timestamp": "2026-05-29 18:04:54.950362",
+    "category": "Database",
+    "severity": "High",
+    "execution_time": 2.86,
+    "memory_status": false
+  },
+  {
+    "timestamp": "2026-05-29 18:13:24.841487",
+    "category": "Database",
+    "severity": "High",
+    "execution_time": 4.22,
+    "memory_status": false
+  },
+  {
+    "timestamp": "2026-05-29 18:21:24.796641",
+    "category": "Database",
+    "severity": "High",
+    "execution_time": 3.37,
+    "memory_status": false
+  },
+  {
+    "timestamp": "2026-05-29 18:22:18.125907",
+    "category": "Application Error",
+    "severity": "Critical",
+    "execution_time": 5.66,
+    "memory_status": false
+  },
+  {
+    "timestamp": "2026-05-29 18:40:16.724791",
+    "category": "API Errors",
+    "severity": "High",
+    "execution_time": 11.67,
+    "memory_status": true
+  },
+  {
+    "timestamp": "2026-05-30 09:46:56.859366",
+    "category": "Application Errors",
+    "severity": "High",
+    "execution_time": 11.05,
+    "memory_status": true
+  },
+  {
+    "timestamp": "2026-05-30 10:05:57.100251",
+    "category": "Database",
+    "severity": "High",
+    "execution_time": 2.75,
+    "memory_status": false
+  },
+  {
+    "timestamp": "2026-05-30 10:47:17.621828",
+    "category": "Database",
+    "severity": "High",
+    "execution_time": 2.69,
+    "memory_status": false
+  },
+  {
+    "timestamp": "2026-05-30 17:10:53.267805",
+    "category": "Application Errors",
+    "severity": "High",
+    "execution_time": 14.65,
+    "memory_status": false
+  },
+  {
+    "timestamp": "2026-05-30 17:12:22.832067",
+    "category": "Database",
+    "severity": "High",
+    "execution_time": 1.39,
+    "memory_status": false
+  },
+  {
+    "timestamp": "2026-05-30 17:12:47.927265",
+    "category": "Database",
+    "severity": "High",
+    "execution_time": 1.63,
+    "memory_status": false
+  },
+  {
+    "timestamp": "2026-05-30 17:13:20.120324",
+    "category": "File Not Found",
+    "severity": "High",
+    "execution_time": 7.53,
+    "memory_status": true
+  },
+  {
+    "timestamp": "2026-05-30 17:23:59.202592",
+    "category": "Application Error",
+    "severity": "Critical",
+    "execution_time": 5.77,
+    "memory_status": false
+  },
+  {
+    "timestamp": "2026-05-30 21:14:17.335287",
+    "category": "API Errors",
+    "severity": "High",
+    "execution_time": 12.2,
+    "memory_status": false
+  },
+  {
+    "timestamp": "2026-05-31 11:21:00.058385",
+    "category": "Unknown",
+    "severity": "Low",
+    "execution_time": 3.82,
+    "memory_status": false
+  },
+  {
+    "timestamp": "2026-05-31 21:13:15.087094",
+    "category": "Database",
+    "severity": "High",
+    "execution_time": 3.92,
+    "memory_status": false
+  },
+  {
+    "timestamp": "2026-05-31 21:14:37.092148",
+    "category": "Database",
+    "severity": "High",
+    "execution_time": 2.31,
+    "memory_status": false
+  },
+  {
+    "timestamp": "2026-06-02 09:20:53.771207",
+    "category": "Database",
+    "severity": "High",
+    "execution_time": 4.16,
+    "memory_status": false
+  },
+  {
+    "timestamp": "2026-06-02 10:00:36.816520",
+    "category": "Database",
+    "severity": "High",
+    "execution_time": 9.31,
+    "memory_status": false
+  },
+  {
+    "timestamp": "2026-06-02 10:04:24.050870",
+    "category": "Database",
+    "severity": "High",
+    "execution_time": 5.23,
+    "memory_status": false
+  },
+  {
+    "timestamp": "2026-06-02 14:22:25.495990",
+    "category": "Database",
+    "severity": "High",
+    "execution_time": 12.11,
+    "memory_status": false
+  },
+  {
+    "timestamp": "2026-06-02 16:11:22.389105",
+    "category": "Database",
+    "severity": "High",
+    "execution_time": 10.27,
+    "memory_status": false
+  }
+]
