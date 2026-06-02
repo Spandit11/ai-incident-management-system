@@ -108,19 +108,11 @@ pip install -r requirements.txt
 
 uvicorn backend.main:app --reload
 
-Backend URL:
-
-http://127.0.0.1:8000/docs
-
 ---
 
 # Run Frontend
 
 python -m streamlit run frontend/streamlit_app.py
-
-Frontend URL:
-
-http://localhost:8501
 
 ---
 
