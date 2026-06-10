@@ -292,5 +292,26 @@
     "severity": "High",
     "execution_time": 10.73,
     "memory_status": false
+  },
+  {
+    "timestamp": "2026-06-06 09:37:01.358190",
+    "category": "API Errors",
+    "severity": "High",
+    "execution_time": 12.29,
+    "memory_status": false
+  },
+  {
+    "timestamp": "2026-06-07 09:27:41.933745",
+    "category": "Database",
+    "severity": "High",
+    "execution_time": 8.45,
+    "memory_status": false
+  },
+  {
+    "timestamp": "2026-06-07 11:13:45.577945",
+    "category": "Database",
+    "severity": "High",
+    "execution_time": 9.5,
+    "memory_status": false
   }
 ]

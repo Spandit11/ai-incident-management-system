@@ -85,7 +85,7 @@ with st.sidebar:
 # -----------------------------------
 
 st.title(
-    "AI Incident Management Agent"
+    "AI Incident Management System"
 )
 
 st.caption(
